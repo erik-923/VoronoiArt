@@ -1,5 +1,5 @@
 """
-Erik Blix and Anthony Mozloom
+Erik Blix
 
 This file contains functions that were used to test the algorithm at various points.
 It contains functions to view a painting and add text to the top left corner of an image.
