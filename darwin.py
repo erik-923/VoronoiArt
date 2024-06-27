@@ -1,5 +1,4 @@
 """
-Erik Blix and Anthony Mozloom
 
 This file containes the Darwin class. This class containes the logic for the genetic algorithm which tries
 to replicate a supplied image using a Voronoi diagram. 
