@@ -1,6 +1,4 @@
 """
-Erik Blix
-
 This file contains the Point class. A point is used in the Voronoi diagram to define the diagram.
 Each point has a location (an x and a y coordinate) as well as a color which is the color of the region
 surrounding the point. 
