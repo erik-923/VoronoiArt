@@ -1,5 +1,4 @@
 <h1>Voronoi Art</h1>
-<h6>Erik Blix and Anthony Mozloom</h6>
 <br>
 <h3>Project Description</h3>
 <p>
