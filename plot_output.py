@@ -1,5 +1,4 @@
 """
-Erik Blix
 This file contains code to read the GAOutput.txt file and create a graph of the progress.
 """
 
