@@ -1,5 +1,5 @@
 """
-Erik Blix and Anthony Mozloom
+Erik Blix
 
 This file contains the Painting class. This class represents an image/Voronoi diagram. A Painting object will be used as an
 individual of the population in the Darwin class. Each painting contains a background color, height, width, and an array of
