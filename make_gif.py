@@ -1,5 +1,4 @@
 """
-Erik Blix
 This file contains code to read the GAOutput.txt file and create a gif of the evolution process.
 The gif shows the progress of the evolution by combining images of the best painting every 10 generations.
 The gif also shows the generation in the top left corner and updates every 500 generations.
